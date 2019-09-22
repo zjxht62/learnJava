@@ -1,0 +1,13 @@
+####实例变量永远都会有默认值  
+####如果你没有明确赋值给实例变量,或者没有调用setter,实例变量还是会有值
+
+类型|默认
+---|---
+integers|0
+floating points|0.0
+booleans|false
+references|null
+
+
+
+

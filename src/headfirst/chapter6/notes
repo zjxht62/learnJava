@@ -1,0 +1,32 @@
+####你必须指明程序代码中所用到的类的完整名称  
+ArrayList并不是他的全名.  
+完整的名称是这样的  
+
+__java.util.ArrayList__  
+
+你必须告诉java想使用的是哪一个ArrayList  
+有两种方法可以指定:  
+* A.IMPORT
+    > 放一个import在程序源文件的最前面  
+    ```java
+    import java.util.ArrayList;
+    public class MyClass{...}
+    ```  
+    
+* B.TYPE
+    > 或者在程序代码里打出全名, 不管在哪里, 只要有使用就打出全名.  
+    声明的时候:  
+    >```java
+    >java.util.ArrayList<Dog> = new java.util.ArrayList<Dog>();
+    >```
+    >用在参数的时候:
+    >```java
+    >public void go(java.util.ArrayList<Dog> list) { }
+    >```
+    >用作返回类型的时候:
+    >```java
+    >public java.util.ArrayList<Dog> foo() {...}
+    >```
+    
+
+    

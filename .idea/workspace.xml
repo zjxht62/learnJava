@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LearnJava:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e99271f4-576d-49d4-a7a2-e723af5200bc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#963#964#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/EqualsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#1446#1447#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>final</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/headfirst/chapter13/TextArea1.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/Box.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/Chat.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/WriteAFile.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/notes" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/ReadAFile.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter14/DailyAdviceClient.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/DailyAdviceClient.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/DailyAdviceSercer.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/DailyAdviceServer.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/notes" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/ThreadTester.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter15/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/Jukebox1.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/Jukebox3.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/Song.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/Jukebox5.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/Jukebox6.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/notes" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter16/TestMap.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/StringCompareTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/InputTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/Retirement.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/Retirement2.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/LotteryOdds.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/BigIntegerTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/LotteryDrawing.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/CompoundInterest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter3/LotteryArray.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/StaticTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/ParamTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/corejava/v1ch02/Welcome/Welcome.java" />
+        <option value="$PROJECT_DIR$/src/corejava/corejava/v2ch11/transferText/TextTransferFrame.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/ConstructorTest/ConstuctorTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/PackageTest/com/horstmann/corejava/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/PackageTest/PackageTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Empliyee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Manager.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/ManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Person.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Student.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/PersonTest.java" />
+        <option value="$PROJECT_DIR$/src/headfirst/chapter7/notes" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter5/inheritance/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter5/abstractClasses/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter5/equals/Manager.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter5/equals/EqualsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="corejava" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter5" type="462c0819:PsiDirectoryNode" />
+              <item name="equals" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551790333096" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="corejava.chapter3" />
+      <recent name="headfirst.chapter16" />
+      <recent name="headfirst.chapter12" />
+      <recent name="headfirst.chapter1" />
+      <recent name="OO.chapter3.PointPackage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\zjx\IdeaProjects\LearnJava\src\corejava" />
+      <recent name="E:\zjx\IdeaProjects\LearnJava\src\headfirst\chapter16" />
+      <recent name="E:\zjx\IdeaProjects\LearnJava\src\headfirst\chapter15" />
+      <recent name="E:\zjx\IdeaProjects\LearnJava\src\headfirst\chapter14" />
+      <recent name="E:\zjx\IdeaProjects\LearnJava\src\headfirst\chapter13" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EqualsTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstuctorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter4.ConstructorTest.ConstuctorTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter4.ConstructorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter5.equals.EqualsTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter5.equals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter5.inheritance.ManagerTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter5.inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter4.PackageTest.PackageTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter4.PackageTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter5.abstractClasses.PersonTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter5.abstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConstuctorTest" />
+      <item itemvalue="Application.PackageTest" />
+      <item itemvalue="Application.ManagerTest" />
+      <item itemvalue="Application.PersonTest" />
+      <item itemvalue="Application.EqualsTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EqualsTest" />
+        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.ManagerTest" />
+        <item itemvalue="Application.PackageTest" />
+        <item itemvalue="Application.ConstuctorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99271f4-576d-49d4-a7a2-e723af5200bc" name="Default" comment="" />
+      <created>1501902251100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501902251100</updated>
+      <workItem from="1517137637001" duration="51000" />
+      <workItem from="1525786671971" duration="663000" />
+      <workItem from="1525831439527" duration="4437000" />
+      <workItem from="1525917967280" duration="2199000" />
+      <workItem from="1526039636757" duration="3500000" />
+      <workItem from="1526084263713" duration="3335000" />
+      <workItem from="1526103856441" duration="5033000" />
+      <workItem from="1526116742590" duration="1301000" />
+      <workItem from="1526127968783" duration="274000" />
+      <workItem from="1526868921288" duration="795000" />
+      <workItem from="1526977067249" duration="32000" />
+      <workItem from="1545744507575" duration="2290000" />
+      <workItem from="1545789472721" duration="177000" />
+      <workItem from="1545828002670" duration="1240000" />
+      <workItem from="1545918244791" duration="1464000" />
+      <workItem from="1545963962271" duration="6833000" />
+      <workItem from="1546050587926" duration="2528000" />
+      <workItem from="1546401057631" duration="5398000" />
+      <workItem from="1546518621769" duration="609000" />
+      <workItem from="1546585967467" duration="2581000" />
+      <workItem from="1546588783795" duration="462000" />
+      <workItem from="1546589277900" duration="5491000" />
+      <workItem from="1546822347493" duration="13820000" />
+      <workItem from="1546912418633" duration="1719000" />
+      <workItem from="1547003567584" duration="10750000" />
+      <workItem from="1547089748488" duration="27000" />
+      <workItem from="1547431055416" duration="6159000" />
+      <workItem from="1547539917706" duration="3916000" />
+      <workItem from="1547601458010" duration="9456000" />
+      <workItem from="1547690507507" duration="8161000" />
+      <workItem from="1548071995153" duration="1813000" />
+      <workItem from="1548076385419" duration="1977000" />
+      <workItem from="1548158382844" duration="597000" />
+      <workItem from="1548213941218" duration="1060000" />
+      <workItem from="1548233022604" duration="1490000" />
+      <workItem from="1548291365438" duration="5943000" />
+      <workItem from="1548384563231" duration="2263000" />
+      <workItem from="1548811572289" duration="675000" />
+      <workItem from="1549932895811" duration="3232000" />
+      <workItem from="1551749219398" duration="2798000" />
+      <workItem from="1551833977716" duration="1217000" />
+      <workItem from="1551920989702" duration="256000" />
+      <workItem from="1557457668870" duration="1976000" />
+      <workItem from="1557709113650" duration="1883000" />
+      <workItem from="1560220013056" duration="4504000" />
+      <workItem from="1560302695003" duration="8596000" />
+      <workItem from="1560388466143" duration="1433000" />
+      <workItem from="1565272513286" duration="2647000" />
+      <workItem from="1565312863353" duration="643000" />
+      <workItem from="1565360996677" duration="8817000" />
+      <workItem from="1565571599713" duration="3285000" />
+      <workItem from="1565596698419" duration="583000" />
+      <workItem from="1565617171333" duration="4231000" />
+      <workItem from="1565667350102" duration="2820000" />
+      <workItem from="1565703717046" duration="3908000" />
+      <workItem from="1565745677373" duration="1460000" />
+      <workItem from="1565793973298" duration="1274000" />
+      <workItem from="1565925016476" duration="9937000" />
+      <workItem from="1566032067349" duration="7186000" />
+      <workItem from="1566178842473" duration="5313000" />
+      <workItem from="1566221164994" duration="3150000" />
+      <workItem from="1566287229177" duration="3104000" />
+      <workItem from="1566308118792" duration="2713000" />
+      <workItem from="1566352016094" duration="6046000" />
+      <workItem from="1566458916368" duration="4809000" />
+      <workItem from="1566522362683" duration="6470000" />
+      <workItem from="1566552199721" duration="858000" />
+      <workItem from="1566625856958" duration="9783000" />
+      <workItem from="1566781452388" duration="2914000" />
+      <workItem from="1566896763466" duration="2598000" />
+      <workItem from="1566979933150" duration="3584000" />
+      <workItem from="1567045750429" duration="4403000" />
+      <workItem from="1567127272131" duration="3149000" />
+      <workItem from="1567134788757" duration="9189000" />
+      <workItem from="1567214301348" duration="14808000" />
+      <workItem from="1567389783597" duration="18273000" />
+      <workItem from="1567645819136" duration="754000" />
+      <workItem from="1567732080883" duration="667000" />
+      <workItem from="1568121324486" duration="2313000" />
+      <workItem from="1568260377709" duration="602000" />
+      <workItem from="1568541519247" duration="8561000" />
+      <workItem from="1568600273241" duration="1227000" />
+      <workItem from="1568682248236" duration="590000" />
+      <workItem from="1568684332711" duration="597000" />
+      <workItem from="1568687507244" duration="477000" />
+      <workItem from="1568731037733" duration="1933000" />
+      <workItem from="1568777108539" duration="5478000" />
+      <workItem from="1568875771877" duration="31000" />
+      <workItem from="1568875821953" duration="3758000" />
+      <workItem from="1568948873926" duration="8852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="330209000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22012103" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49016643" weight="0.10310966" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5098336" side_tool="true" weight="0.31751227" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.494705" weight="0.30932897" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/inheritance/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/inheritance/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter4/ConstructorTest/ConstuctorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter15/ThreadTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/inheritance/ManagerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/abstractClasses/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/abstractClasses/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/abstractClasses/PersonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter3/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-389" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter5/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-513" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter6/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/abstractClasses/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+          <folding>
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter16/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter15/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter14/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-67">
+            <caret column="12" selection-start-column="12" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter13/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter12/SimpleAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter12/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter12/MyDrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter9/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="589">
+            <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter8/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1235">
+            <caret line="65" selection-start-line="65" selection-end-line="65" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter7/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirst/chapter1/notes">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2242">
+            <caret line="118" column="21" selection-start-line="118" selection-start-column="21" selection-end-line="118" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/test/java/com/xinmei/chromeautomatedtest/base/android/testCase/MStationProductsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1363">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/test/java/com/xinmei/chromeautomatedtest/base/android/testCase/MStationHomeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="76" column="30" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/test/java/com/xinmei/chromeautomatedtest/base/android/testCase/MStationMyCenterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1106">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/main/java/com/xinmei/chromeautomatedtest/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/main/java/com/xinmei/chromeautomatedtest/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4180">
+          <caret line="43" column="67" selection-start-line="43" selection-start-column="67" selection-end-line="43" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatisgen/src/resources/t_claim_case2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/dal/dto/oms/OmsFileVerifyDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mybatisgen/src/resources/t_support_bank.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/resources/META-INF/operation/mybatis/gl/GlMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/facade/src/main/java/com/trustlife/qec/operation/facade/module/etrust/DoFinancialWriteOffReqModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/dal/dto/etrust/OrderProgressChangeLogDO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/biz/oms/OMSBizFacadeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../seleniumsimple/src/main/java/Selenium2Example.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/biz/tis/CSBizFacadeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-43220">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/main/java/com/xinmei/pcautomatedtest/pages/PolicyServicePages/AccountChangePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../aps/test/src/main/java/com/xinmei/aps/mobileauto/test/android/PRDSmoke/PRDXinmeiFamilyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wrm/core/src/main/java/com/zjx/wrm/utils/HTMLUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mobile-automated-test/src/main/java/com/xinmei/mobileautomatedtest/mobileauto/base/XinmeiAndroidBaseCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mobile-automated-test/src/main/java/com/xinmei/mobileautomatedtest/mobileauto/test/android/presmoke/mpaas/XinmeiFamilyInsureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1506">
+          <caret line="123" column="12" selection-start-line="123" selection-start-column="12" selection-end-line="123" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/test/java/com/xinmei/pcautomatedtest/testcase/XinmeiPolicyCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3401">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/test/java/com/xinmei/pcautomatedtest/testcase/XinmeiTrialCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/test/java/com/xinmei/pcautomatedtest/testcase/XinmeiMyCenterCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jmcs/core/src/main/java/com/xinmei/jmcs/etrust/biz/ETrustBizFacadeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/main/java/com/xinmei/pcautomatedtest/pages/InfoPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jmcs/core/src/main/java/com/xinmei/jmcs/interfacePlatform/biz/InterfacePlatformBizFacadeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/EqualsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>LearnJava:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LearnJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

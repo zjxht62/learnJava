@@ -1,0 +1,33 @@
+####primitive主数据类型
+
+类型|位数|值域
+---|---|---
+boolean与char|
+boolean|java虚拟机决定|true/false
+char|16bits|0~65535
+数值(带正负号)|
+byte|8bits|-128~127
+short|16bits|-32768~32767
+int|32bits|-2147483648~2147483647
+long|64bits|-很大~+很大
+浮点数|
+float|32bits|范围规模可变
+double|64bits|范围规模可变
+
+####primitive主数据类型的声明与赋值声明:
+int x;  
+x = 234;  
+byte b = 89;  
+boolean isFun = true;  
+double d = 3456.98;  
+char c = 'f';  
+int z = x;  
+boolean isPunkRock;  
+isPunkRock = false;  
+boolean powerOn;  
+powerOn = isFun;  
+long big = 3456789;    
+float f = 32.5f;(除非加上f,否则所有带小数点的值都会被java当做double处理)
+
+
+
