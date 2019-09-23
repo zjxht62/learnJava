@@ -1,6 +1,6 @@
 package headfirst.chapter5;
 
-import com.sun.javafx.scene.text.HitInfo;
+
 
 import javax.tools.Diagnostic;
 import java.io.FileReader;

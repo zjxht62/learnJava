@@ -1,7 +1,6 @@
 package headfirst.chapter6;
 
 
-import org.omg.CORBA.ARG_OUT;
 
 import javax.swing.*;
 import java.net.SocketTimeoutException;

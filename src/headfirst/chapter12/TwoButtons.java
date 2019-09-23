@@ -1,7 +1,5 @@
 package headfirst.chapter12;
 
-import com.sun.deploy.uitoolkit.impl.awt.AWTDragHelper;
-import sun.java2d.loops.DrawParallelogram;
 
 import javax.swing.*;
 import java.awt.*;

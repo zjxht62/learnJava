@@ -1,6 +1,6 @@
 package headfirst.chapter2;
 
-import javax.jws.Oneway;
+
 
 /**
  * Demo class

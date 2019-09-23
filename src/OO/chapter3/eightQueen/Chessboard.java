@@ -1,6 +1,5 @@
 package OO.chapter3.eightQueen;
 
-import sun.text.resources.sl.CollationData_sl;
 
 import java.awt.*;
 import java.util.Arrays;

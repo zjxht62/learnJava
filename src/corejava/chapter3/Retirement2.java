@@ -1,6 +1,5 @@
 package corejava.chapter3;
 
-import sun.plugin2.message.JavaScriptCallMessage;
 
 import java.util.Scanner;
 

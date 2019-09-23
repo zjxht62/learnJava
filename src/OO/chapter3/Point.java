@@ -1,6 +1,5 @@
 package OO.chapter3;
 
-import com.sun.deploy.panel.ITreeNode;
 
 /**
  * Demo class

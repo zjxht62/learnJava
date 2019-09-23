@@ -1,6 +1,5 @@
 package headfirst.chapter11;
 
-import com.sun.org.apache.bcel.internal.generic.NEW;
 
 import javax.sound.midi.*;
 
