@@ -7,8 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e99271f4-576d-49d4-a7a2-e723af5200bc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/corejava/chapter6/proxy/ProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/corejava/chapter6/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter7/StackTraceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter8/pair1/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter8/pair1/PairTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/linkedList/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/map/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/map/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/priorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/set/SetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/shuffle/shuffleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/sieve/Sieve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/treeSet/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corejava/chapter9/treeSet/TreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/LearnJava_jar/LearnJava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LearnJava_jar/LearnJava.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,10 +35,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/clone/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/set/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="46" column="91" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
+            <state relative-caret-position="236">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,19 +47,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/interfaces/EmployeeSortTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/treeSet/TreeSetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/lambda/LambdaTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="293">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,10 +59,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/innerClass/InnerClassTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/priorityQueue/PriorityQueueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="200">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,10 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/anonymousInnerClass/AnonymousInnerClassTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/map/MapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="321">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,39 +83,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/staticInnerClass/StaticInnerClassTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/shuffle/shuffleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/proxy/ProxyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-709">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="226">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#444#445#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/timer/TimerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/sieve/Sieve.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="209">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/map/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="e#182#183#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,21 +132,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/clone/CloneTest.java">
+        <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/treeSet/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/objectAnalyzer/ObjectAnalyzerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
+            <state relative-caret-position="347">
+              <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#555#556#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,20 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/corejava/chapter3/CompoundInterest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter3/LotteryArray.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/Employee.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/StaticTest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/ParamTest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/corejava/v1ch02/Welcome/Welcome.java" />
-        <option value="$PROJECT_DIR$/src/corejava/corejava/v2ch11/transferText/TextTransferFrame.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/ConstructorTest/ConstuctorTest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/PackageTest/com/horstmann/corejava/Employee.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/PackageTest/PackageTest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Empliyee.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Employee.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/Manager.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter4/inheritance/ManagerTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Person.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Employee.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter4/abstractClasses/Student.java" />
@@ -207,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/corejava/chapter5/methods/MethodTableTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/interfaces/Employee.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/interfaces/EmployeeSortTest.java" />
-        <option value="$PROJECT_DIR$/src/corejava/chapter6/timer/TimerTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/clone/Employee.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/clone/CloneTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/lambda/LambdaTest.java" />
@@ -215,13 +207,29 @@
         <option value="$PROJECT_DIR$/src/corejava/chapter6/anonymousInnerClass/AnonymousInnerClassTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/staticInnerClass/StaticInnerClassTest.java" />
         <option value="$PROJECT_DIR$/src/corejava/chapter6/proxy/ProxyTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter6/timer/TimerTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter7/StackTraceTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter8/pair1/Pair.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter8/pair1/PairTest1.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/linkedList/LinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/set/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/treeSet/Item.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/treeSet/TreeSetTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/priorityQueue/PriorityQueueTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/map/Map.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/map/Employee.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/map/MapTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/shuffle/shuffleTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/sieve/SieveTest.java" />
+        <option value="$PROJECT_DIR$/src/corejava/chapter9/sieve/Sieve.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1380" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -231,8 +239,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,70 +262,22 @@
               <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-              <item name="InnerClassTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LearnJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="corejava" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter6" type="462c0819:PsiDirectoryNode" />
-              <item name="timer" type="462c0819:PsiDirectoryNode" />
-              <item name="TimerTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="sieve" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -327,7 +285,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551790333096" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/corejava/chapter9/sieve" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -363,7 +321,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProxyTest">
+  <component name="RunManager" selected="Application.Sieve">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -372,13 +330,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="corejava.chapter6.clone.CloneTest" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter9.map.MapTest" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="corejava.chapter6.clone.*" />
+          <option name="PATTERN" value="corejava.chapter9.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,13 +344,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="corejava.chapter6.innerClass.InnerClassTest" />
+    <configuration name="PriorityQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter9.priorityQueue.PriorityQueueTest" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="corejava.chapter6.innerClass.*" />
+          <option name="PATTERN" value="corejava.chapter9.priorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,13 +358,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="corejava.chapter6.lambda.LambdaTest" />
+    <configuration name="Sieve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter9.sieve.Sieve" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="corejava.chapter6.lambda.*" />
+          <option name="PATTERN" value="corejava.chapter9.sieve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,27 +372,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="corejava.chapter6.proxy.ProxyTest" />
+    <configuration name="TreeSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter9.treeSet.TreeSetTest" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="corejava.chapter6.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticInnerClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="corejava.chapter6.staticInnerClass.StaticInnerClassTest" />
-      <module name="LearnJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="corejava.chapter6.staticInnerClass.*" />
+          <option name="PATTERN" value="corejava.chapter9.treeSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,6 +388,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shuffleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="corejava.chapter9.shuffle.shuffleTest" />
+      <module name="LearnJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="corejava.chapter9.shuffle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -467,19 +425,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CloneTest" />
-      <item itemvalue="Application.LambdaTest" />
-      <item itemvalue="Application.InnerClassTest" />
-      <item itemvalue="Application.StaticInnerClassTest" />
-      <item itemvalue="Application.ProxyTest" />
+      <item itemvalue="Application.TreeSetTest" />
+      <item itemvalue="Application.PriorityQueueTest" />
+      <item itemvalue="Application.MapTest" />
+      <item itemvalue="Application.shuffleTest" />
+      <item itemvalue="Application.Sieve" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProxyTest" />
-        <item itemvalue="Application.StaticInnerClassTest" />
-        <item itemvalue="Application.InnerClassTest" />
-        <item itemvalue="Application.LambdaTest" />
-        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="Application.Sieve" />
+        <item itemvalue="Application.shuffleTest" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.PriorityQueueTest" />
+        <item itemvalue="Application.TreeSetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -588,16 +546,21 @@
       <workItem from="1569373220606" duration="14022000" />
       <workItem from="1569479276658" duration="5393000" />
       <workItem from="1569492456319" duration="7632000" />
+      <workItem from="1569676421148" duration="2818000" />
+      <workItem from="1569719347861" duration="3619000" />
+      <workItem from="1570448782528" duration="1745000" />
+      <workItem from="1570498601489" duration="7345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367829000" />
+    <option name="totallyTimeSpent" value="383356000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22348484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -606,12 +569,12 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" weight="0.5207987" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.3622951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49546143" visible="true" weight="0.21963394" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49546143" weight="0.17540984" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.23114754" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3294509" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924356" weight="0.3295082" />
@@ -633,19 +596,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../chrome-automated-test/src/main/java/com/xinmei/chromeautomatedtest/utils/Utils.java" />
-    <entry file="file://$PROJECT_DIR$/../mybatisgen/src/resources/t_claim_case2.xml" />
-    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/dal/dto/oms/OmsFileVerifyDO.java" />
-    <entry file="file://$PROJECT_DIR$/../mybatisgen/src/resources/t_support_bank.xml" />
-    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/resources/META-INF/operation/mybatis/gl/GlMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/../operation/facade/src/main/java/com/trustlife/qec/operation/facade/module/etrust/DoFinancialWriteOffReqModel.java" />
-    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/dal/dto/etrust/OrderProgressChangeLogDO.java" />
-    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/biz/oms/OMSBizFacadeImpl.java" />
-    <entry file="file://$PROJECT_DIR$/../seleniumsimple/src/main/java/Selenium2Example.java" />
-    <entry file="file://$PROJECT_DIR$/../operation/core/src/main/java/com/trustlife/qec/operation/core/biz/tis/CSBizFacadeImpl.java" />
-    <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/main/java/com/xinmei/pcautomatedtest/pages/PolicyServicePages/AccountChangePage.java" />
-    <entry file="file://$PROJECT_DIR$/../aps/test/src/main/java/com/xinmei/aps/mobileauto/test/android/PRDSmoke/PRDXinmeiFamilyTest.java" />
-    <entry file="file://$PROJECT_DIR$/../wrm/core/src/main/java/com/zjx/wrm/utils/HTMLUtils.java" />
     <entry file="file://$PROJECT_DIR$/../mobile-automated-test/src/main/java/com/xinmei/mobileautomatedtest/mobileauto/base/XinmeiAndroidBaseCase.java" />
     <entry file="file://$PROJECT_DIR$/../mobile-automated-test/src/main/java/com/xinmei/mobileautomatedtest/mobileauto/test/android/presmoke/mpaas/XinmeiFamilyInsureTest.java" />
     <entry file="file://$PROJECT_DIR$/../pc-automated-test/src/test/java/com/xinmei/pcautomatedtest/testcase/XinmeiPolicyCase.java" />
@@ -763,16 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/reflection/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -825,7 +765,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/clone/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
+        <state relative-caret-position="836">
           <caret line="46" column="91" selection-start-line="46" selection-start-column="91" selection-end-line="46" selection-end-column="91" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -840,12 +780,84 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/lambda/LambdaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/innerClass/InnerClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
+        <state relative-caret-position="589">
           <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/anonymousInnerClass/AnonymousInnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/staticInnerClass/StaticInnerClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/proxy/ProxyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/timer/TimerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter7/StackTraceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter8/pair1/PairTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter8/pair1/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -859,7 +871,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/objectAnalyzer/ObjectAnalyzerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="304">
           <caret line="18" column="61" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -867,58 +879,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/anonymousInnerClass/AnonymousInnerClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/linkedList/LinkedListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="38">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/staticInnerClass/StaticInnerClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/set/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/proxy/ProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/lambda/LambdaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="236">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/corejava/chapter6/timer/TimerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/treeSet/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="47" column="17" lean-forward="true" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/treeSet/TreeSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/priorityQueue/PriorityQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter5/equals/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/map/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/map/MapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/shuffle/shuffleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/sieve/SieveTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/corejava/chapter9/sieve/Sieve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
