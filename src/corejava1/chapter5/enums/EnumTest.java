@@ -1,5 +1,7 @@
 package corejava1.chapter5.enums;
 
+import sun.misc.PostVMInitHook;
+
 import java.util.Scanner;
 
 /**
@@ -14,6 +16,7 @@ public class EnumTest {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a size:(SMALL, MEDIUM, LARGE, EXTRA_LARGE)");
         String input = in.next().toUpperCase();
+        //通过名字返回Size对象
         Size size = Enum.valueOf(Size.class, input);
         System.out.println("size=" + size);
         System.out.println("abbreviation=" + size.getAbbreviration());
