@@ -1,6 +1,5 @@
 package emumdemo;
 
-import sun.nio.cs.ext.EUC_CN;
 
 /**
  * Demo class

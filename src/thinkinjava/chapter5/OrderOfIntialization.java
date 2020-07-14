@@ -2,7 +2,6 @@ package thinkinjava.chapter5;
 
 import headfirst.chapter5.GameHelper;
 
-import javax.xml.bind.annotation.W3CDomHandler;
 
 /**
  * Demo class
