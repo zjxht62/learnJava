@@ -5,117 +5,78 @@
       <artifact name="LearnJava:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e99271f4-576d-49d4-a7a2-e723af5200bc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/DefaultModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/DefaultModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/PrivateModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/PrivateModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/ProtectedModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/ProtectedModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/PublicModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/PublicModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/TestSamePackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/other/DefaultModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/other/PrivateModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/other/ProtectedModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/other/PublicModifierChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/headfirst/chapter7/modifier/other/TestOtherPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/demo4/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter12_exception/demo4/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/ATypeName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/ATypeNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/AutoBoxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/Incrementable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/NewClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter2/TestArgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Assignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/AutoInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/BitManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/BitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/CastingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Coin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Exponents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/MathOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/ShortCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/StringOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter3/TernaryIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/ArrayInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/DefaultConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/ExplicitStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/InitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/Loli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/NoSynthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/OptionalTrailingArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/OrderOfIntialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/Overloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/StaticInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/StringArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/ConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/DebugTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/VectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/Dinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/Foreign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/Pie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/Widget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/dessert/Cookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/local/Foreign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/access/local/PackagedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/debug/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/debugoff/Mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/outerpackage/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter6/outerpackage/Vector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/Cleanser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/Detergent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/Stem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/WashingPowder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/practise/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Amphlibian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Art.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/BlankFinal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Cartoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Chess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Drawing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/FinalData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Frog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Hide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/Orc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/SpaceShipControls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/SpaceShipDelegation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chpter4/DoWhileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chpter4/ListCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chpter4/PrimeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chpter4/WhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/FinalArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/FinalOverridingIllusion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnJava.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/LearnJava_jar/LearnJava.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/LearnJava_jar/LearnJava.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/META-INF/LearnJava.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/META-INF/LearnJava.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Rect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Rect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/RectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/RectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/META-INF/LearnJava.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Simulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Simulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/TestInClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/TestInClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/Time.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/TryStringBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/TryStringBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/eightQueen/Chessboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/eightQueen/Chessboard.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/eightQueen/EightQueen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter3/eightQueen/EightQueen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter1/notes" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter1/notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter4/exp4_1/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter4/exp4_1/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter4/exp4_3/PersonClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter4/exp4_3/PersonClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter5/TestSelfException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter5/TestSelfException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/ObjectFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/ObjectFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryDataStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryDataStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryFile2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryFile2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryWriteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/OO/chapter6/TryWriteFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MiniMiniMusicApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MiniMiniMusicApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MiniMusicCmdLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MiniMusicCmdLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MusicTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MusicTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MyEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter11/MyEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/Animate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/Animate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/MiniMusicPlayer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/MiniMusicPlayer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/MiniMusicPlayer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/MiniMusicPlayer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/SimpleAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter12/SimpleAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/ReadAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/ReadAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/WriteAFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter14/WriteAFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter15/DailyAdviceClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter15/DailyAdviceClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter15/DailyAdviceServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter15/DailyAdviceServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter16/Jukebox6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/DrumKitTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/DrumKitTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/EchoTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/EchoTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/GuessGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter2/GuessGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter3/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter3/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/GameHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/GameHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/SimpleDotCom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/SimpleDotCom.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/SimpleDotComTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter5/SimpleDotComTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/ArrayListMagnet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/ArrayListMagnet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/DotComBust.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/DotComBust.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/GameHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter6/GameHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter9/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearnJava/headfirst/chapter9/Duck.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/corejava1/chapter5/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava1/chapter5/enums/EnumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/corejava1/chapter6/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava1/chapter6/lambda/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/corejava2/chapter1/optional/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/corejava2/chapter1/optional/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkinjava/chapter5/StringArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkinjava/chapter5/StringArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/SpaceShipDelegation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thinkinjava/chapter7/reusing/SpaceShipDelegation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,21 +105,22 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551790333096" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../operation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -176,7 +138,7 @@
       <recent name="E:\zjx\IdeaProjects\LearnJava\src\corejava\chapter14" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BlankFinal">
+  <component name="RunManager" selected="Application.FinalOverridingIllusion">
     <configuration default="true" type="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -213,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thinkinjava.chapter7.reusing.Frog" />
+    <configuration name="FinalOverridingIllusion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkinjava.chapter7.reusing.FinalOverridingIllusion" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -227,8 +189,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thinkinjava.chapter7.reusing.Hide" />
+    <configuration name="Frog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinkinjava.chapter7.reusing.Frog" />
       <module name="LearnJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -280,19 +242,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hide" />
       <item itemvalue="Application.Orc" />
       <item itemvalue="Application.Frog" />
       <item itemvalue="Application.FinalData" />
       <item itemvalue="Application.BlankFinal" />
+      <item itemvalue="Application.FinalOverridingIllusion" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlankFinal" />
+        <item itemvalue="Application.FinalOverridingIllusion" />
         <item itemvalue="Application.FinalData" />
+        <item itemvalue="Application.BlankFinal" />
         <item itemvalue="Application.Frog" />
         <item itemvalue="Application.Orc" />
-        <item itemvalue="Application.Hide" />
       </list>
     </recent_temporary>
   </component>
@@ -451,11 +413,26 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="2019" y="189" key="#TestArgs" timestamp="1592634485076">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2019" y="189" key="#TestArgs/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1592634485076" />
+    <state x="692" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594648130978">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="692" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1024.23.1024.745/0.23.1920.982@0.23.1920.982" timestamp="1594648130978" />
     <state x="544" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1594629749954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -473,33 +450,37 @@
     <state x="526" y="193" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594604454202" />
     <state x="2106" y="275" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1592643604418" />
     <state x="911" y="367" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594523222982" />
-    <state width="1323" height="167" key="GridCell.Tab.0.bottom" timestamp="1594629844094">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom" timestamp="1594649912866">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.bottom/-1024.23.1024.745/0.23.1920.980@0.23.1920.980" timestamp="1594649912866" />
     <state width="1877" height="265" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1366.728@-1920.0.1920.1040" timestamp="1594375427939" />
     <state width="1323" height="167" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594629844094" />
     <state width="1877" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593963718637" />
     <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593352840475" />
     <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594568393781" />
-    <state width="1323" height="167" key="GridCell.Tab.0.center" timestamp="1594629844094">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1878" height="265" key="GridCell.Tab.0.center" timestamp="1594649912864">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.center/-1024.23.1024.745/0.23.1920.980@0.23.1920.980" timestamp="1594649912864" />
     <state width="1877" height="265" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1366.728@-1920.0.1920.1040" timestamp="1594375427937" />
     <state width="1323" height="167" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594629844094" />
     <state width="1877" height="253" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593963718637" />
     <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593352840475" />
     <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594568393780" />
-    <state width="1323" height="167" key="GridCell.Tab.0.left" timestamp="1594629844094">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1878" height="265" key="GridCell.Tab.0.left" timestamp="1594649912863">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.left/-1024.23.1024.745/0.23.1920.980@0.23.1920.980" timestamp="1594649912863" />
     <state width="1877" height="265" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1366.728@-1920.0.1920.1040" timestamp="1594375427935" />
     <state width="1323" height="167" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594629844094" />
     <state width="1877" height="253" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593963718637" />
     <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593352840474" />
     <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594568393780" />
-    <state width="1323" height="167" key="GridCell.Tab.0.right" timestamp="1594629844094">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1878" height="265" key="GridCell.Tab.0.right" timestamp="1594649912865">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state width="1878" height="265" key="GridCell.Tab.0.right/-1024.23.1024.745/0.23.1920.980@0.23.1920.980" timestamp="1594649912865" />
     <state width="1877" height="265" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1366.728@-1920.0.1920.1040" timestamp="1594375427938" />
     <state width="1323" height="167" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594629844094" />
     <state width="1877" height="253" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1593963718637" />
@@ -525,9 +506,11 @@
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1366.728@0.0.1366.728" timestamp="1594029834026" />
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1592643741218" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1594523229595">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="440" y="112" key="SettingsEditor" timestamp="1594648665326">
+      <screen x="0" y="23" width="1920" height="980" />
     </state>
+    <state x="440" y="112" key="SettingsEditor/-1024.23.1024.745/0.23.1920.980@0.23.1920.980" timestamp="1594648665326" />
+    <state x="440" y="112" key="SettingsEditor/-1024.23.1024.745/0.23.1920.982@0.23.1920.982" timestamp="1594648290068" />
     <state x="1806" y="94" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1592643616099" />
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594523229595" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1594023768164">

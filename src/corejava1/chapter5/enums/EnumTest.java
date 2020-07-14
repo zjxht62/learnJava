@@ -1,6 +1,5 @@
 package corejava1.chapter5.enums;
 
-import sun.misc.PostVMInitHook;
 
 import java.util.Scanner;
 

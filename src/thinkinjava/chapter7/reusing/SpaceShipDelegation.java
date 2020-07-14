@@ -1,6 +1,5 @@
 package thinkinjava.chapter7.reusing;
 
-import com.sun.xml.internal.ws.api.server.SDDocumentFilter;
 
 /**
  * Demo class
