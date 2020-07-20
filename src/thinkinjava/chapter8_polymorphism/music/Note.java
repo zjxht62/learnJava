@@ -6,7 +6,7 @@ package thinkinjava.chapter8_polymorphism.music;
  * @author trevor.zhao
  * @date 2020/7/14
  */
-public enum Node {
+public enum Note {
     MIDDLE_C,
     C_SHARP,
     B_FLAT;

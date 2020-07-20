@@ -9,7 +9,7 @@ import static net.mindview.util.Print.print;
  * @date 2020/7/14
  */
 class Instrument {
-    public void play(Node n) {
+    public void play(Note n) {
         print("Instrument.play()");
     }
 }

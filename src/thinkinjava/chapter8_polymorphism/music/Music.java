@@ -8,7 +8,7 @@ package thinkinjava.chapter8_polymorphism.music;
  */
 public class Music {
     public static void tune(Instrument i) {
-        i.play(Node.MIDDLE_C);
+        i.play(Note.MIDDLE_C);
     }
 
     public static void main(String[] args) {

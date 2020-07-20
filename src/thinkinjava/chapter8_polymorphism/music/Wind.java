@@ -10,7 +10,7 @@ import static net.mindview.util.Print.print;
  */
 public class Wind extends Instrument {
     @Override
-    public void play(Node n) {
+    public void play(Note n) {
         print("Wind.play()");
     }
 }
