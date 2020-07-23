@@ -42,6 +42,10 @@ public class Sequence {
         public void next() {
             if (i < items.length) i++;
         }
+
+        public Sequence getSequence() {
+            return Sequence.this;
+        }
     }
 
     public Selector selector() {
