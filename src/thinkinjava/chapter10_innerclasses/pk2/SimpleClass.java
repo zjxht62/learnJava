@@ -9,7 +9,10 @@ import thinkinjava.chapter10_innerclasses.pk1.SimpleInterface;
  * @date 2020/7/23
  */
 public class SimpleClass {
-    protected class Inner implements SimpleInterface {
+    protected class InnerClass implements SimpleInterface {
+        public InnerClass() {
+        }
+
         @Override
         public void fun() {
             System.out.println("SimpleClass.Inner.fun()");

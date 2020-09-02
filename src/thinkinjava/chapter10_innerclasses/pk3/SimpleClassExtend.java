@@ -11,6 +11,11 @@ import thinkinjava.chapter10_innerclasses.pk2.SimpleClass;
  */
 public class SimpleClassExtend extends SimpleClass {
     public SimpleInterface getInner() {
-        return null;
+        return this.new InnerClass();
+    }
+
+    public static void main(String[] args) {
+        SimpleClassExtend simpleClassExtend = new SimpleClassExtend();
+        simpleClassExtend.getInner().fun();
     }
 }

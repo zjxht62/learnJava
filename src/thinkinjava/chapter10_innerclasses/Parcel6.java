@@ -1,0 +1,33 @@
+package thinkinjava.chapter10_innerclasses;
+
+/**
+ * Demo class
+ *
+ * @author trevor.zhao
+ * @date 2020/7/24
+ */
+public class Parcel6 {
+    private void internalTracking(boolean b) {
+        if (b) {
+            class TrackingSlip {
+                private String id;
+                TrackingSlip(String s) {
+                    id = s;
+                }
+                String getSlip() {
+                    return id;
+                }
+            }
+            TrackingSlip ts = new TrackingSlip("slip");
+            String s = ts.getSlip();
+        }
+    }
+    public void track() {
+        internalTracking(true);
+    }
+
+    public static void main(String[] args) {
+        Parcel6 parcel6 = new Parcel6();
+        parcel6.track();
+    }
+}

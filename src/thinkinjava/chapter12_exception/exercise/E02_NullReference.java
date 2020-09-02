@@ -1,4 +1,4 @@
-package thinkinjava.chapter12_exception;
+package thinkinjava.chapter12_exception.exercise;
 
 /**
  *
@@ -6,7 +6,7 @@ package thinkinjava.chapter12_exception;
  * @author trevor.zhao
  * @date 2020/6/2
  */
-public class Demo2 {
+public class E02_NullReference {
     public static void main(String[] args) {
             Object object = null;
         try {

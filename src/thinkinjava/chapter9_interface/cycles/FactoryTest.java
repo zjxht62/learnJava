@@ -14,5 +14,6 @@ public class FactoryTest {
         getCycleFromFactory(new BicycleFactory()).go();
         getCycleFromFactory(new UnicycleFactory()).go();
         getCycleFromFactory(new TricycleFactory()).go();
+        Tricycle.getFactory().makeCycle().go();
     }
 }

@@ -11,4 +11,12 @@ public class Tricycle implements Cycle {
     public void go() {
         System.out.println("我靠三个轮子走");
     }
+    public static CycleFactory getFactory() {
+        return new CycleFactory() {
+            @Override
+            public Cycle makeCycle() {
+                return new Tricycle();
+            }
+        };
+    }
 }
