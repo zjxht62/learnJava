@@ -47,7 +47,6 @@ public class StartEnd {
 
         if (m.matches()) {
             d.display("matches() start = " + m.start() + " end = " + m.end());
-
         }
 
     }
