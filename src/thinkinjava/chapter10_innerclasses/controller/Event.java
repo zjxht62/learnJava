@@ -1,6 +1,5 @@
 package thinkinjava.chapter10_innerclasses.controller;
 
-import sun.plugin.viewer.LifeCycleManager;
 
 /**
  * Demo class

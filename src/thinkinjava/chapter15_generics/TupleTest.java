@@ -1,8 +1,8 @@
 package thinkinjava.chapter15_generics;
 
-import com.sun.javafx.scene.control.behavior.TwoLevelFocusPopupBehavior;
 import net.mindview.util.ThreeTuple;
 import net.mindview.util.TwoTuple;
+import net.mindview.util.Print;
 
 /**
  * Demo class

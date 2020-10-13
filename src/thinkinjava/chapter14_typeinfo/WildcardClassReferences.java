@@ -1,6 +1,5 @@
 package thinkinjava.chapter14_typeinfo;
 
-import com.sun.org.apache.xerces.internal.dom.PSVIAttrNSImpl;
 
 /**
  * 使用通配符的Class引用

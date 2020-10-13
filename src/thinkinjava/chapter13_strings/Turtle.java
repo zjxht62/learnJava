@@ -1,6 +1,5 @@
 package thinkinjava.chapter13_strings;
 
-import sun.java2d.pipe.OutlineTextRenderer;
 
 import javax.swing.text.DefaultFormatterFactory;
 import java.io.PrintStream;

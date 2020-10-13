@@ -1,6 +1,5 @@
 package thinkinjava.chapter14_typeinfo;
 
-import com.sun.org.apache.xalan.internal.xsltc.runtime.Operators;
 import net.mindview.util.Null;
 
 import java.util.List;

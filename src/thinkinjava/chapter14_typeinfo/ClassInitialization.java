@@ -1,6 +1,5 @@
 package thinkinjava.chapter14_typeinfo;
 
-import com.sun.xml.internal.messaging.saaj.soap.SOAPVersionMismatchException;
 
 import java.util.Random;
 

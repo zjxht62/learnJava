@@ -1,6 +1,5 @@
 package thinkinjava.chapter13_strings;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
 
 /**
  * Demo class

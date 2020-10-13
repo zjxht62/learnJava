@@ -1,7 +1,6 @@
 package thinkinjava.chapter15_generics;
 
 import net.mindview.util.Generator;
-import sun.nio.cs.Surrogate;
 
 import java.util.*;
 

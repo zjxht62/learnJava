@@ -1,6 +1,5 @@
 package thinkinjava.chapter12_exception;
 
-import sun.java2d.pipe.SpanShapeRenderer;
 
 /**
  * 自定义异常
