@@ -1,6 +1,5 @@
 package thinkinjava.chapter16_arrays;
 
-import com.sun.deploy.panel.ITreeNode;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;

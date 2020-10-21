@@ -1,6 +1,5 @@
 package thinkinjava.chapter16_arrays;
 
-import com.sun.crypto.provider.PBEWithMD5AndDESCipher;
 
 import java.util.Arrays;
 
