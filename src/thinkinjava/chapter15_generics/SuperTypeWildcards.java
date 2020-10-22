@@ -1,6 +1,5 @@
 package thinkinjava.chapter15_generics;
 
-import com.sun.org.apache.xerces.internal.util.EntityResolverWrapper;
 
 import java.util.List;
 

@@ -1,6 +1,5 @@
 package thinkinjava.chapter16_arrays;
 
-import com.sun.jndi.ldap.Ber;
 
 import java.util.ArrayList;
 import java.util.List;
