@@ -9,7 +9,7 @@ import headfirst.chapter7.practice.C;
  * @date 2020/10/22
  */
 public abstract class Test<C> {
-    private String name;
+    String name;
 
     public Test(String name) {
         this.name = name;

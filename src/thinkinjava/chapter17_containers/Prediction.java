@@ -1,6 +1,5 @@
 package thinkinjava.chapter17_containers;
 
-import com.sun.jnlp.JNLPRandomAccessFileNSBImpl;
 
 import java.util.Random;
 
