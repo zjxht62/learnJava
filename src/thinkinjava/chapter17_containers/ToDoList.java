@@ -1,6 +1,5 @@
 package thinkinjava.chapter17_containers;
 
-import jdk.nashorn.api.tree.IfTree;
 
 import java.util.PriorityQueue;
 
