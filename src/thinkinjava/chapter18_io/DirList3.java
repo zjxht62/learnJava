@@ -3,6 +3,7 @@ package thinkinjava.chapter18_io;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.util.Arrays;
+import java.util.List;
 import java.util.regex.Pattern;
 
 /**
@@ -31,4 +32,9 @@ public class DirList3 {
             }
         }
     }
+//public static void main(String[] args) {
+//    List<String> list = Arrays.asList("A B C".split(" "));
+//    System.out.println(list);
+//    list.add("haha");
+//}
 }
