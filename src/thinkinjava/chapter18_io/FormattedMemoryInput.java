@@ -1,6 +1,5 @@
 package thinkinjava.chapter18_io;
 
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
 
 import java.io.ByteArrayInputStream;
 import java.io.DataInputStream;
