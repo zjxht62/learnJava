@@ -15,5 +15,5 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface UseCase {
     public int id();
-    public String description() default "no description";
+    public String description() default "no descriptions haha";
 }
