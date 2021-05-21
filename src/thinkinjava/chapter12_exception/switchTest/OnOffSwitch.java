@@ -1,6 +1,5 @@
 package thinkinjava.chapter12_exception.switchTest;
 
-import javafx.concurrent.Worker;
 
 /**
  * Demo class

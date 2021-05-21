@@ -1,6 +1,6 @@
 package thinkinjava.chapter10_innerclasses;
 
-import javafx.scene.input.Dragboard;
+
 
 /**
  * Demo class
