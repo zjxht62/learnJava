@@ -31,7 +31,7 @@ public class Teacher {
 
     public void notifyObservers(){
         for (Observer o : observerList) {
-            o.update();
+            o.update(asking);
         }
     }
 

@@ -7,5 +7,5 @@ package designPatterns.observerPattern;
  * @date 2021/5/21
  */
 public interface Observer {
-    void update();
+    void update(Boolean asking);
 }
