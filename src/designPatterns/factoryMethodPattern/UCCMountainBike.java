@@ -1,4 +1,4 @@
-package designPatterns.simpleFactory;
+package designPatterns.factoryMethodPattern;
 
 /**
  * 具体的产品，UCC山地车
@@ -6,7 +6,7 @@ package designPatterns.simpleFactory;
  * @author trevor.zhao
  * @date 2021/6/10
  */
-public class UCCMountainBike extends Bike{
+public class UCCMountainBike extends Bike {
     public UCCMountainBike() {
         super("UCC", "山地车");
     }

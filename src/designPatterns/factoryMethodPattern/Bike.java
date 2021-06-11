@@ -1,4 +1,4 @@
-package designPatterns.simpleFactory;
+package designPatterns.factoryMethodPattern;
 
 /**
  * 抽象的产品，具体的产品继承自它。
@@ -19,5 +19,9 @@ public abstract class Bike {
     protected void assembling() {
         System.out.println("组装中。。。" + "品牌：" + brand + "，车型：" + type);
     }
+
+
+
+
 
 }

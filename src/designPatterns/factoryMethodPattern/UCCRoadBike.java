@@ -1,4 +1,4 @@
-package designPatterns.simpleFactory;
+package designPatterns.factoryMethodPattern;
 
 /**
  * 具体的产品，UCC公路车
@@ -6,7 +6,7 @@ package designPatterns.simpleFactory;
  * @author trevor.zhao
  * @date 2021/6/10
  */
-public class UCCRoadBike extends Bike{
+public class UCCRoadBike extends Bike {
     public UCCRoadBike() {
         super("UCC", "公路车");
     }
