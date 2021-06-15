@@ -14,7 +14,7 @@ public class GiantFactory extends BikeFactory{
             product = new GiantRoadBike();
         }
         if (type.equals("山地车")) {
-            product = new GiantRoadBike();
+            product = new GiantMountainBike();
         }
         return product;
     }
