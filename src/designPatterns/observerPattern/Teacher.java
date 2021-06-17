@@ -18,23 +18,25 @@ public class Teacher {
         this.observerList = new ArrayList<>();
     }
 
+    //注册观察者
     public void registerObserver(Observer observer) {
         observerList.add(observer);
     }
 
+    //取消注册观察者
     public void unregisterObserver(Observer observer) {
         int index = observerList.indexOf(observer);
         if (-1 != index) {
             observerList.remove(observer);
         }
     }
-
+    //通知观察者
     public void notifyObservers(){
         for (Observer o : observerList) {
             o.update(asking);
         }
     }
-
+    //修改状态触发通知
     public void setAsking(Boolean asking) {
         this.asking = asking;
         notifyObservers();

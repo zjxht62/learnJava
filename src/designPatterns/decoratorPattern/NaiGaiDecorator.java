@@ -6,7 +6,7 @@ package designPatterns.decoratorPattern;
  * @author trevor.zhao
  * @date 2021/6/3
  */
-public class NaiGaiDecorator extends BaseDecorator {
+public class NaiGaiDecorator extends BeverageBaseDecorator {
     public NaiGaiDecorator(Beverage beverage) {
         super(beverage);
         cost = 2;

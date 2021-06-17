@@ -19,9 +19,4 @@ public abstract class Bike {
     protected void assembling() {
         System.out.println("组装中。。。" + "品牌：" + brand + "，车型：" + type);
     }
-
-
-
-
-
 }

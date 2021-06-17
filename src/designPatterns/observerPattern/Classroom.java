@@ -9,5 +9,9 @@ public class Classroom {
         teacher.setAsking(true);
         teacher.setAsking(false);
 
+        //老师不管哪个坏学生了，爱听不听，我也不问你了
+        teacher.unregisterObserver(badStudent);
+        teacher.setAsking(true);
+
     }
 }

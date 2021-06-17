@@ -6,7 +6,7 @@ package designPatterns.decoratorPattern;
  * @author trevor.zhao
  * @date 2021/6/3
  */
-public class BobaDecorator extends BaseDecorator {
+public class BobaDecorator extends BeverageBaseDecorator {
     public BobaDecorator(Beverage beverage) {
         super(beverage);
         cost = 4;

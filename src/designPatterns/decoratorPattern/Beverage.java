@@ -11,6 +11,10 @@ public abstract class Beverage {
     protected double cost;
     protected String description;
 
+    /**
+     * 抽象的方法，子类中实现
+     * @return
+     */
     public abstract Double getCost();
 
     public String getDescription() {
