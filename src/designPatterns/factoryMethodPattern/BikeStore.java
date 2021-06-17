@@ -10,10 +10,12 @@ package designPatterns.factoryMethodPattern;
 public class BikeStore {
     public static void main(String[] args) {
         BikeFactory bikeFactory = new GiantFactory();
-        Bike bike = bikeFactory.makeBike("公路车");
-        bike.assembling();
+        Bike giantBike = bikeFactory.makeBike("公路车");
+        giantBike.assembling();
         bikeFactory = new UCCFactory();
-        bikeFactory.makeBike("山地车").assembling();
+
+        Bike UCCBike = bikeFactory.makeBike("山地车");
+        UCCBike.assembling();
 
 
     }
