@@ -5,12 +5,12 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Demo class
+ * 金隅大厦菜单，一个具体的聚合，使用List存储数据
  *
  * @author trevor.zhao
  * @date 2021/7/9
  */
-public class JinyuMenu {
+public class JinyuMenu implements Menu{
     private List<String> menu = new ArrayList<>();
 
     public JinyuMenu() {
@@ -20,8 +20,13 @@ public class JinyuMenu {
         this.menu.add("凉皮");
     }
 
+    /**
+     * 实现抽象聚合接口，返回具体的迭代器实例,这里可以直接返回ArrayList的迭代器
+     * @return
+     */
+    @Override
     public Iterator<String> getIterator() {
-        return new MenuIterator(menu);
+        return menu.iterator();
     }
 
 
