@@ -15,6 +15,7 @@ public class TrafficLightTest {
             trafficLight.timeUp();
             trafficLight.timeUp();
             System.out.println("等待60s");
+            
         }
 
 
