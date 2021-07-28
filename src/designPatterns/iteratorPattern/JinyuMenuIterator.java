@@ -4,16 +4,16 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * Demo class
+ * 金隅大厦菜单迭代器，实现抽象迭代器接口
  *
  * @author trevor.zhao
  * @date 2021/7/9
  */
-public class MenuIterator implements Iterator<String> {
+public class JinyuMenuIterator implements Iterator<String> {
     private List<String> menu;
     Integer index = 0;
 
-    public MenuIterator(List<String> menu) {
+    public JinyuMenuIterator(List<String> menu) {
         this.menu = menu;
     }
 
