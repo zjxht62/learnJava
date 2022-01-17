@@ -14,7 +14,6 @@ public class Test {
         User.Builder ub = new User.Builder("bbb");
         ub.setSex("F").setAge(11);
         System.out.println(ub.getResult());
-        ub.
 
     }
 }
